@@ -7,4 +7,3 @@ A web application that provides information about the "Rick and Morty" TV series
 - View details about characters and their episodes.
 
   
-![Uploading Capture d’écran 2023-09-08 124004.png…]()
